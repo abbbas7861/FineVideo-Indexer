@@ -1,0 +1,5 @@
+ultralytics
+pyarrow
+av
+opencv-python-headless
+numpy
